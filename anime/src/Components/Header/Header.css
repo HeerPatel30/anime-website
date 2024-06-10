@@ -15,3 +15,18 @@ div h1{
 div h1 span{
     color:grey
 }
+body{
+    background-color: rgba(0, 0, 0, 0.925);
+    
+}
+.card-body{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+
+    
+}
+.card-body .card{
+    width: 250px;
+}
