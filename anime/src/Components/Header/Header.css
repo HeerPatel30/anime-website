@@ -1,0 +1,17 @@
+.container1{ 
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items:center;
+    padding: 10px;
+    background-color: black;
+}
+div h1{
+    color:white;
+    /* background-color: whitesmoke; */
+   
+}
+div h1 span{
+    color:grey
+}

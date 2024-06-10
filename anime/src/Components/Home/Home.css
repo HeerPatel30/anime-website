@@ -1,0 +1,34 @@
+.Home{
+
+        background-color: rgba(0, 0, 0, 0.925);
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+
+        /* padding: 160px; */
+    
+}
+.card {
+        width: 250px;
+        margin:30px; /* Adjust this value to control the spacing */
+      }
+
+
+.card:hover {
+        box-shadow: 4px 4px 8px 4px rgba(2, 254, 183, 0.962);
+        transition: 0.3s;
+      }
+      
+.btn{
+        border: none;
+        outline: none;
+        
+}
+.btn:hover{
+        background-color: yellow;
+        color: black;
+}
+.img{
+        width: 100%;
+}
