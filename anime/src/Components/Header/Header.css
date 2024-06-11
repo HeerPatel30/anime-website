@@ -29,4 +29,11 @@ body{
 }
 .card-body .card{
     width: 250px;
+    margin: 30px;
+}
+.search{
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
 }
